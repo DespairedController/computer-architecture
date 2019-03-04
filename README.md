@@ -1,5 +1,4 @@
 # computer-architecture
-Конспекты по курсу архитектур ЭВМ
 
 - [Элементная база вычислительной системы: логические элементы, триггеры](https://github.com/DespairedController/computer-architecture/blob/master/1_1/1_1.pdf)
 - [Оперативная память: статическая/динамическая, организация](https://github.com/DespairedController/computer-architecture/blob/master/1_2/1_2.pdf)
