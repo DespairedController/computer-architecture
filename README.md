@@ -1,5 +1,7 @@
 # computer-architecture
 
+КОНСПЕКТЫ СОДЕРЖАТ БАГИ
+
 - [Элементная база вычислительной системы: логические элементы, триггеры](https://github.com/DespairedController/computer-architecture/blob/master/1_1/1_1.pdf)
 - [Оперативная память: статическая/динамическая, организация](https://github.com/DespairedController/computer-architecture/blob/master/1_2/1_2.pdf)
 - [Оперативная память: характеристики, типы динамической памяти, NUMA](https://github.com/DespairedController/computer-architecture/blob/master/1_3/1_3.pdf)
