@@ -1,0 +1,6 @@
+#Ignore
+/*/*
+
+#Except
+!/*/*.tex
+!/*/*.pdf
